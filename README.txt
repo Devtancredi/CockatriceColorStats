@@ -1,0 +1,2 @@
+A simple little program that calculates how often each color identity shows up in the decks saved in your Cockatrice directory. The file is intended to be added to your main Cockatrice directory. The program assumes your "/decks"
+directory is formatted such that it contains a directory for each MTG deck color and color combination with no capital letters (green, rakdos, witch, wubrg, colorless, etc).
